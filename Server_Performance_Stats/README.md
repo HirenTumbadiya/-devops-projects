@@ -27,12 +27,12 @@ This script analyzes basic server performance stats, including CPU usage, memory
 
 3. Give execute permissions to the script:
     ```bash
-    chmod +x server_performance_stats.sh
+    chmod +x server-stats.sh
     ```
 
 4. Run the script:
     ```bash
-    ./server_performance_stats.sh
+    ./server-stats.sh
     ```
 
 ## Output:

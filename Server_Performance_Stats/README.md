@@ -2,6 +2,9 @@
 
 This script analyzes basic server performance stats, including CPU usage, memory usage, disk usage, and top processes. It also provides additional stats like OS version, uptime, load average, logged-in users, and failed login attempts.
 
+This project is part of the [Server Stats project on roadmap.sh](https://roadmap.sh/projects/server-stats), which focuses on learning and implementing basic server performance monitoring.
+
+
 ## Features:
 - **CPU Usage**: Displays total CPU usage.
 - **Memory Usage**: Shows memory usage, including free vs used memory.

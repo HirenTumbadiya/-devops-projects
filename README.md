@@ -25,7 +25,3 @@ Each project is self-contained, with its own directory and documentation, allowi
 ## Learning Path:
 
 This repository is designed to help you progressively build your DevOps skills, starting with foundational projects and moving toward more complex topics. Each project serves as a stepping stone toward mastering key DevOps tools and practices.
-
-## Contributing:
-
-Feel free to fork this repository, contribute, or submit issues for any bugs or improvements you find. We welcome contributions that can help improve the quality of these DevOps practices and make the learning process even better!

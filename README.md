@@ -29,7 +29,3 @@ This repository is designed to help you progressively build your DevOps skills, 
 ## Contributing:
 
 Feel free to fork this repository, contribute, or submit issues for any bugs or improvements you find. We welcome contributions that can help improve the quality of these DevOps practices and make the learning process even better!
-
-## License:
-
-This project is open-source and available under the MIT License.
